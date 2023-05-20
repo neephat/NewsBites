@@ -1,3 +1,6 @@
+# A simple news app for you
+NewsBites is a news app which is fetching news through API keys. You can see categorywise news too. I used react Js for building the app. You can find fetch API, loading spinner and loading bar also.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
