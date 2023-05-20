@@ -1,5 +1,5 @@
 # A simple news app for you
-NewsBites is a news app which is fetching news through API keys. You can see categorywise news too. I used react Js for building the app. You can find fetch API, loading spinner and loading bar also.
+NewsBites is a news app which is fetching news through API keys. You can see categorywise news too. I used react Js and bootstrap for building the app. You can find fetch API, loading spinner and loading bar also.
 
 # Getting Started with Create React App
 
